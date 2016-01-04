@@ -1,0 +1,22 @@
+{
+  "name": "learn-grunt",
+  "version": "1.0.0",
+  "description": "learn grunt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elvin1993/learn-grunt.git"
+  },
+  "keywords": [
+    "learn-grunt"
+  ],
+  "author": "ElvinLong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Elvin1993/learn-grunt/issues"
+  },
+  "homepage": "https://github.com/Elvin1993/learn-grunt#readme"
+}
